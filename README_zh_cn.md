@@ -57,7 +57,7 @@ sudo apt install OmniHand-ToolBox*.deb
 
 [OmniHand 2025 & OmniHand 3 Guides](omnihand_2025_guides_zh_cn.md)
 
-[OmniHand 3 Lite S/M Guides](omnihand_3_lite_guide.md)
+[OmniHand 3 Lite S/M Guides](omnihand_3_lite_guide_zh_cn.md)
 
 
 
