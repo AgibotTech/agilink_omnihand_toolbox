@@ -1,0 +1,80 @@
+omnihand_2025_guides.md
+  s_6a3c853268126a::t_59854e84dc65c9 1,3,5,7,9,11,13,15,17,19,21,23-292,298,301,306-307,309,324,327-328
+  s_6a3c853268126a::t_3bc65a6511e485 293-295
+  s_6a3c853268126a::t_b90b4861a947dc 2,4,6,8,10,12,14,16,18,20,22
+  s_6a3c853268126a::t_7631826716e116 296-297
+  s_6a3c853268126a::t_ca8d7b9eb23ef3 299-300
+  s_6a3c853268126a::t_f3dcbb19b0f8df 302-305
+  s_6a3c853268126a::t_e64b65bb61a4f6 308
+  s_6a3c853268126a::t_aa771a7f38f84f 310-312,321-323
+  s_6a3c853268126a::t_154b0606931ce5 325-326
+  s_6a3c853268126a::t_d0dcef8e071b4d 329-331
+omnihand_2025_guides_zh_cn.md
+  s_6a3c853268126a::t_08ae54380add6d 1-448
+README_zh_cn.md
+  s_6a3c853268126a::t_1c038550075d66 1-15,20-24,28-56
+  s_6a3c853268126a::t_036f1891eb10ef 16-18,26
+  s_6a3c853268126a::t_ca1cf305ac32ae 19
+  s_6a3c853268126a::t_ccdc7cd3be08e7 25
+  s_6a3c853268126a::t_2cc54773dc63ec 27
+  s_6a3c853268126a::t_71d272a4131661 57-59
+---
+{
+  "schema_version": "authorship/3.1.0",
+  "tlab_version": "0.14.2",
+  "base_commit_sha": "17012c1025fe1a250ba6de26d68ee351718f2543",
+  "prompts": {},
+  "sessions": {
+    "s_6a3c853268126a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18cfa-7d27-77f2-8ba2-5144fe9a2959",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "xuqigui <xuqigui@agibot.com>",
+      "custom_attributes": {
+        "tlab.session_started_at": "2026-10-30T13:23:22Z",
+        "tlab.token_usage.output_tokens": "1508005",
+        "tlab.token_usage.cache_creation_tokens": "0",
+        "tlab.token_usage.cache_read_tokens": "412207696",
+        "tlab.token_usage.input_tokens": "11359273"
+      }
+    }
+  },
+  "changes": [
+    {
+      "new_path": "README_zh_cn.md",
+      "additions": {
+        "ai": [
+          {
+            "session_id": "s_6a3c853268126a",
+            "lines": 66
+          }
+        ]
+      }
+    },
+    {
+      "new_path": "omnihand_2025_guides.md",
+      "additions": {
+        "human": 33,
+        "ai": [
+          {
+            "session_id": "s_6a3c853268126a",
+            "lines": 360
+          }
+        ]
+      }
+    },
+    {
+      "new_path": "omnihand_2025_guides_zh_cn.md",
+      "additions": {
+        "ai": [
+          {
+            "session_id": "s_6a3c853268126a",
+            "lines": 448
+          }
+        ]
+      }
+    }
+  ]
+}
