@@ -49,6 +49,8 @@ When installation is complete, click `Finish`. The option to launch OmniHand-Too
 sudo apt install OmniHand-ToolBox*.deb
 ```
 
+![Ubuntu 22.04 installation — completion](pic/ubuntu_install.png)
+
 ## User Guides
 
 [OmniHand 2025 & OmniHand 3 Guides](omnihand_2025_guides.md)
