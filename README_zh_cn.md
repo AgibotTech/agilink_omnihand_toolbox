@@ -2,10 +2,6 @@
 
 [English Guides](README.md)
 
-## 产品概述
-
-![AGILINK 产品介绍](pic/agilink_introduction_cn_2.png)
-
 ## 前置条件
 
 | 类型 | 要求 |
@@ -23,7 +19,7 @@
 
 ### **Windows x64**
 
-下载后缀为exe的文件直接安装即可。中途如果遇到安装Mircosoft插件的请求，请无脑允许安装。
+在 Releases 页面的 **Assets** 中下载 `.exe` 安装程序，右键选择**以管理员身份运行**。如果提示安装 Microsoft 运行库，请允许安装。
 
 ![windows下载](pic/win_downloads.png)
 
@@ -39,18 +35,16 @@
 
 ![windows安装3](pic/win_install_3.png)
 
-安装完成点击`Finish`，默认选择勾选启动OmniHand-ToolBox。
+### **Ubuntu 22.04+ x64**
 
-![windows安装4](pic/win_install_4.png)
+在 Releases 页面的 **Assets** 中下载 `.deb` 安装包。
 
+![Ubuntu 下载——选择 .deb 安装包](pic/ubuntu_downloads.png)
 
-
-
-### **Ubuntu 22.04+ x64** 
-
+在下载目录打开终端并安装：
 
 ```shell
-sudo apt install OmniHand-ToolBox*.deb
+sudo apt install ./OmniHand-ToolBox*.deb
 ```
 
 ## 使用说明
@@ -60,6 +54,10 @@ sudo apt install OmniHand-ToolBox*.deb
 [OmniHand 3 Lite S/M Guides](omnihand_3_lite_guide_zh_cn.md)
 
 
+
+## 产品概述
+
+![AGILINK 产品介绍](pic/agilink_introduction_cn_2.png)
 
 ## 许可证
 

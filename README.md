@@ -2,10 +2,6 @@
 
 [中文说明](README_zh_cn.md)
 
-## Overview
-
-![AGILINK product introduction](pic/agilink_introduction_en_2.png)
-
 ## Prerequisites
 
 | Item | Requirement |
@@ -23,7 +19,7 @@
 
 ### **Windows x64**
 
-Download and run the `.exe` installer. If prompted to install Microsoft runtime components, allow the installation.
+Download the `.exe` installer from **Assets** on the Releases page, then right-click it and select **Run as administrator**. If prompted to install Microsoft runtime components, allow the installation.
 
 ![Windows downloads](pic/win_downloads.png)
 
@@ -39,14 +35,16 @@ Click `Install` to install with the selected settings, or click `Back` to change
 
 ![Windows installation — confirmation](pic/win_install_3.png)
 
-When installation is complete, click `Finish`. The option to launch OmniHand-ToolBox is selected by default.
-
-![Windows installation — completion](pic/win_install_4.png)
-
 ### **Ubuntu 22.04+ x64**
 
+Download the `.deb` package from **Assets** on the Releases page.
+
+![Ubuntu download — select the .deb package](pic/ubuntu_downloads.png)
+
+Open a terminal in the download directory and install:
+
 ```shell
-sudo apt install OmniHand-ToolBox*.deb
+sudo apt install ./OmniHand-ToolBox*.deb
 ```
 
 ![Ubuntu 22.04 installation — completion](pic/ubuntu_install.png)
@@ -56,6 +54,10 @@ sudo apt install OmniHand-ToolBox*.deb
 [OmniHand 2025 & OmniHand 3 Guides](omnihand_2025_guides.md)
 
 [OmniHand 3 Lite S/M Guides](omnihand_3_lite_guide.md)
+
+## Overview
+
+![AGILINK product introduction](pic/agilink_introduction_en_2.png)
 
 ## License
 
