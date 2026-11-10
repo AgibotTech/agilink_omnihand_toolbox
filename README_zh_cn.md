@@ -53,6 +53,8 @@ sudo apt install ./OmniHand-ToolBox*.deb
 
 [OmniHand 3 Lite S/M Guides](omnihand_3_lite_guide_zh_cn.md)
 
+[OmniPicker 3 Guides](omnipicker_3_guide_zh_cn.md)
+
 
 
 ## 产品概述
