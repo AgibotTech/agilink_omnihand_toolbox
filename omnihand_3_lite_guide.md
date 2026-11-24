@@ -140,6 +140,8 @@ Move the pointer over the target chart before using these shortcuts:
 | Ctrl + Shift + ← / → | Pan horizontally while paused |
 | Ctrl + R | Reset the view |
 
+Click a legend to show or hide its series, and hover over the plot to inspect values. Pausing a chart freezes its view while acquisition continues; only turning off **Polling** stops periodic acquisition.
+
 ### Joint Control
 
 ![Joint control column](pic/h3l_s_control_en.png)
@@ -322,12 +324,6 @@ Click **Select** and choose the firmware file from a local folder. The update st
 When progress reaches **100%** and the page shows **Update Complete** (the device has restarted and the connection is restored), click **Back** to return to the main interface:
 
 ![Firmware update complete](pic/h3l_s_update_firmware_3_en.png)
-
-### Matrix and Curves
-
-Click a numeric matrix cell to open its chart, or use **Add** in the curve column to select a joint and parameter. Available chart types include polled values, command/feedback comparisons, and tactile data. Each card can be paused, cleared, maximized, or closed; the toolbar applies pause, clear, and close to all charts.
-
-Click a legend to show or hide its series, and hover over the plot to inspect values. Pausing a chart freezes its view while acquisition continues; turning off **Polling** stops periodic acquisition.
 
 ### System Log
 
